@@ -2,6 +2,4 @@
 The Libft project at 42 School
 
 # Usage
-```make``` without bonus functions.
-
-```make bonus``` to compile with bonuses.
+```make``` to compile functions.
