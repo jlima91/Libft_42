@@ -13,6 +13,12 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jlima91/get_next_line_42?color=green" />
 </p>
 
+## Summary
+
+```
+This project is about coding a C library.
+It will contain a lot of general purpose functions your programs will rely upon.
+```
 
 The Library is now updated with more funtions than what was required originaly.
 
